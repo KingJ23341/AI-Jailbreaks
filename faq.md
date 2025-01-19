@@ -34,3 +34,8 @@ Here's a list of some Frequently Asked Questions about jailbreaks on ChatGPT and
   <summary>Are you actively updating it?</summary>
   Yes, we're actively updating our jailbreak list to contain new jailbreaks incase old ones get patched.
 </details>
+<br>
+<details>
+  <summary>How will we know when they're patched?</summary>
+  To tell if a jailbreak prompt is patched, it will usually have a PATCHED label infront of the version number.
+</details>

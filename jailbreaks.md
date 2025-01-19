@@ -4,9 +4,13 @@ This is a list of working ChatGPT Jailbreak prompts.
 ## Table of Contents
 
 [What is a Jailbreak?](<https://github.com/KingJ23341/AI-Jailbreaks/edit/main/jailbreaks.md#what-is-a-jailbreak>)
+<br>
 [X/Twitter Grok AI Jailbreaks](<https://github.com/KingJ23341/AI-Jailbreaks/edit/main/jailbreaks.md#xtwitter-grok-ai-jailbreaks>)
+<br>
 [ChatGPT Jailbreaks](<https://github.com/KingJ23341/AI-Jailbreaks/edit/main/jailbreaks.md#chatgpt-jailbreaks>)
+<br>
 [Google Gemini Jailbreaks](<https://github.com/KingJ23341/AI-Jailbreaks/edit/main/jailbreaks.md#google-gemini-jailbreaks>)
+<br>
 [Notice](<https://github.com/KingJ23341/AI-Jailbreaks/edit/main/jailbreaks.md#notice>)
 
 ## What is a Jailbreak?

@@ -29,3 +29,8 @@ Here's a list of some Frequently Asked Questions about jailbreaks on ChatGPT and
   <summary>How do you use it?</summary>
   To use a prompt, simply copy the prompt, then paste it in.
 </details>
+<br>
+<details>
+  <summary>Are you actively updating it?</summary>
+  Yes, we're actively updating our jailbreak list to contain new jailbreaks incase old ones get patched.
+</details>
